@@ -1,1 +1,2 @@
 # apm
+adminlinux package manager
