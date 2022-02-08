@@ -1,3 +1,4 @@
 #https://github.com/adminlinuxweb
+https://github.com/VMLinuxPr0gramm3r/Sys-info
 https://discordapp.com/api/download?platform=linux&format=deb
 http://dl.google.com/linux/chrome/deb/ stable main
